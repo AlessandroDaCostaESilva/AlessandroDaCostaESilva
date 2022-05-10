@@ -18,6 +18,6 @@
 <div style="display: flex"> 
       <a href="https://t.me/AlessandroCeS"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
       <a href="https://github.com/AlessandroDaCostaESilva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-      <a href"https://www.instagram.com/alessandroc0sta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+      <a href="https://www.instagram.com/alessandroc0sta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
      <a href="https://www.linkedin.com/in/alessandro-silva-146306239/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
     </div>
